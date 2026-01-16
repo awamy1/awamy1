@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm abdulrahman, Backend Developer specializing in Python & Django ,<br>Experienced in building RESTful APIs, working with relational databases, and writing clean, maintainable code. <br>Background in video editing, design, and digital marketing, giving me a strong understanding of user experience and product goals.
+I'm abdulrahman, Backend Developer specializing in Python & Django ,<br>Experienced in building RESTful APIs, working with relational databases, and writing clean, maintainable code. <br>Background in video editing, design, and digital marketing, call center agent "english" giving me a strong understanding of user experience and product goals.
 Fluent in English and native Arabic speaker. Always learning and improving. , <br>Comfortable with:
 Django & Django REST Framework
 PostgreSQL / SQLite
